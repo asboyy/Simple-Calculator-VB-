@@ -1,0 +1,9 @@
+D:\MATERI KULIAH\SEMESTER 4\Software Arsitektur\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe
+D:\MATERI KULIAH\SEMESTER 4\Software Arsitektur\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.pdb
+D:\MATERI KULIAH\SEMESTER 4\Software Arsitektur\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.xml
+D:\MATERI KULIAH\SEMESTER 4\Software Arsitektur\Kalkulator Sederhana\Kalkulator Sederhana\obj\x86\Debug\Kalkulator_Sederhana.Form1.resources
+D:\MATERI KULIAH\SEMESTER 4\Software Arsitektur\Kalkulator Sederhana\Kalkulator Sederhana\obj\x86\Debug\Kalkulator_Sederhana.Resources.resources
+D:\MATERI KULIAH\SEMESTER 4\Software Arsitektur\Kalkulator Sederhana\Kalkulator Sederhana\obj\x86\Debug\Kalkulator Sederhana.vbproj.GenerateResource.Cache
+D:\MATERI KULIAH\SEMESTER 4\Software Arsitektur\Kalkulator Sederhana\Kalkulator Sederhana\obj\x86\Debug\Kalkulator Sederhana.exe
+D:\MATERI KULIAH\SEMESTER 4\Software Arsitektur\Kalkulator Sederhana\Kalkulator Sederhana\obj\x86\Debug\Kalkulator Sederhana.xml
+D:\MATERI KULIAH\SEMESTER 4\Software Arsitektur\Kalkulator Sederhana\Kalkulator Sederhana\obj\x86\Debug\Kalkulator Sederhana.pdb
